@@ -1,4 +1,4 @@
-# Python Brute-force Script cho Lab "Hammer" (TryHackMe)
+# Python Brute-force Script for Lab "Hammer" (TryHackMe)
 
 ## 1. Context
 This is a Python script, which is written to automate the brute-force process in the lab **[Hammer](https://tryhackme.com/room/hammer)** on TryHackMe platform.
